@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pet Peeve.md",
+            "file": "whizz-bang.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pet Peeve.md",
+            "file": "whizz-bang.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pet Peeve.md",
+                "file": "whizz-bang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +99,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Pet Peeve.md",
     "Untitled.md",
+    "satire.md",
+    "Untitled 1.md",
+    "Pet Peeve.md",
     "low-hanging fruit.md",
     "bandwagon.md",
     "endemic.md",
-    "satire.md",
     "myriad.md",
-    "Untitled 1.md",
     "In Reference To, About, Regarding.md"
   ]
 }
