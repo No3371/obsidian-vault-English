@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "humiliating.md",
+            "file": "egregious.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "humiliating.md",
+            "file": "egregious.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humiliating.md",
+                "file": "egregious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "humiliating.md",
     "whizz-bang.md",
     "satire.md",
     "Untitled 1.md",
@@ -107,7 +108,6 @@
     "low-hanging fruit.md",
     "bandwagon.md",
     "endemic.md",
-    "myriad.md",
-    "In Reference To, About, Regarding.md"
+    "myriad.md"
   ]
 }
