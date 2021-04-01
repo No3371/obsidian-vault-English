@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "egregious.md",
+            "file": "neck and neck.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "egregious.md",
+            "file": "neck and neck.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "egregious.md",
+                "file": "neck and neck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +99,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "neck and neck.md",
     "Untitled.md",
+    "satire.md",
+    "egregious.md",
     "humiliating.md",
     "whizz-bang.md",
-    "satire.md",
     "Untitled 1.md",
     "Pet Peeve.md",
     "low-hanging fruit.md",
-    "bandwagon.md",
-    "endemic.md",
-    "myriad.md"
+    "bandwagon.md"
   ]
 }
