@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "neck and neck.md",
+            "file": "plaintiff.md",
             "mode": "source"
           }
         },
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "neck and neck.md",
+            "file": "plaintiff.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neck and neck.md",
+                "file": "plaintiff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "neck and neck.md",
     "Untitled.md",
+    "neck and neck.md",
     "satire.md",
     "egregious.md",
     "humiliating.md",
